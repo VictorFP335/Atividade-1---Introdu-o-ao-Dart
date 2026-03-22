@@ -1,4 +1,4 @@
- Atividade prática em Dart – Manipulação de dados e cálculo de métricas
+# Atividade prática em Dart – Manipulação de dados e cálculo de métricas
 
 Nesta atividade da faculdade desenvolvi um programa em Dart contendo quatro exercícios focados em manipulação de listas, transformação de dados e cálculos matemáticos, aplicando conceitos importantes para programação e análise de dados.
 
